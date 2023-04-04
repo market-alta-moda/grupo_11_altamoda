@@ -32,8 +32,7 @@ Observación del servicio seleccionado.<br>
 
 <h2>Estudio de Mercado</h2>
 Se selecciono el servicio de venta indumentaria online por su crecimiento en el mercado
-
-![](Imagenes/estadistica1.jpg)
+![Alt text](Imagenes/estadistica1.jpg)
 Se enfoca en venta web por tasa de tráfico superior
 
 Se enfoca en ropa de alta categoría por rendimiento mayores de venta.
