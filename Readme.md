@@ -26,10 +26,12 @@ https://www.distritomoda.com.ar/  : Hace énfasis en género femenino (por estad
 https://www.yagmour.com.ar/ : Enfoque en más estilos de un reducido tipo de indumentaria.
 Observación del servicio seleccionado
 Se selecciono el servicio de venta indumentaria online por su crecimiento en el mercado
- 
+![Getting Started](./Imagenes/estadistica1.jpg) 
 Se enfoca en venta web por tasa de tráfico superior
- 
+<img src="./Imagenes/estadistica1.jpg alt="estadistica2" />
+
 Se enfoca en ropa de alta categoría por rendimiento mayores de venta.
+ 
  
 Se enfocaran los productos en la variedad con sub atención en ofertas
  
