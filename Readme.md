@@ -12,7 +12,7 @@ https://app.diagrams.net/#G1e1gX8Rm9IlwTd0FPbY3dG6suT1fI-YRF
 
 <h2>Tematica del sitio web</h2> <br>
 ¿Qué productos o servicios brindará nuestro sitio?<br>
-Indumentaria para mujeres y hombres<br>
+Indumentaria para mujeres y hombres de alta categoria y marcas de renombre <br>
 ¿Quién será nuestra audiencia objetivo?<br>
 Mujeres y hombres mayores de 18 años<br>
 ¿Cómo ajustaremos nuestra oferta a ese público?<br>
@@ -36,12 +36,12 @@ Se selecciono el servicio de venta indumentaria online por su crecimiento en el 
 ![Getting Started](./Imagenes/estadistica1.jpg)
 
 Se enfoca en venta web por tasa de tráfico superior
-
+![Getting Started](./Imagenes/estadistica2.jpg)
 Se enfoca en ropa de alta categoría por rendimiento mayores de venta.
-
+![Getting Started](./Imagenes/estadistica3.jpg)
 
 Se enfocaran los productos en la variedad con sub atención en ofertas
- 
+![Getting Started](./Imagenes/estadistica4.jpg)
 
 <h2>Datos de estadisticas:</h2>
 https://www.similarweb.com/es/top-websites/lifestyle/fashion-and-apparel/
