@@ -36,7 +36,7 @@ Se selecciono el servicio de venta indumentaria online por su crecimiento en el 
 Se enfoca en venta web por tasa de tráfico superior
 ![](./Imagenes/estadistica2.jpg)
 Se enfoca en ropa de alta categoría por rendimiento mayores de venta.
- 
+![Alt text](Imagenes/estadistica3.jpg) 
 
 Se enfocaran los productos en la variedad con sub atención en ofertas
  
