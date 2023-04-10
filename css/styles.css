@@ -1,0 +1,68 @@
+.headpromos{
+
+                background-color:rgb(215, 237, 239);    
+                display: flex;
+                padding: 20px;
+            }
+
+.promo1{
+            background-color: aqua;
+            width: 300px;
+            height: 100px;
+            margin-right: 115px;
+            
+        }
+
+.promo2{
+    background-color: aqua;
+    width: 300px;
+    height: 100px;
+    margin-right: 115px;
+   
+        }
+
+.promo3{
+        background-color: aqua;
+        width: 300px;
+        height: 100px;
+        margin-right: 115px;
+       }
+            
+            
+
+.head2{
+      background-color:rgb(163, 232, 239);    
+      display: flex;
+      padding: 20px;
+
+}       
+
+.logo{
+
+
+    margin-right: 115px;
+    
+    }
+.buscador{
+       background-color: azure;
+        width: 500px;
+        height: 50px;
+        margin-right: 11px;
+        
+         }
+.carro{
+            background-color: rgb(38, 181, 181);
+            width: 300px;
+             height: 100px;
+             margin-right: 115px;
+            
+       }
+
+
+a {  
+    
+    background-color: rgb(89, 208, 168);
+    padding: 10px;   
+    text-decoration: none;  
+    margin-left: 800px;
+}

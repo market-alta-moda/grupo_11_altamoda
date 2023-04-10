@@ -18,6 +18,14 @@ Mujeres y hombres mayores de 18 años<br>
 ¿Cómo ajustaremos nuestra oferta a ese público?<br>
 Con promociones de temporadas y moda y si la marca lo solicita se adapta el pedido al publico.<br>
 
+<h2>Logo:</h2>
+![Getting Started](./Imagenes/altamodalogo.png)
+
+<h2>WIREFRAME:</h2>
+<h4>INDEX</h4>
+![Getting Started](./Imagenes/INDEX.jpg)
+
+
 <h2>Referentes de Mercado</h2><br>
 https://www.shein.com/ : Posicionamiento líder en mercado global, con enfoque acentuado en las ofertas y cupones con target preferencial femenino.<br>
 
