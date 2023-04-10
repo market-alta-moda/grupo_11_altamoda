@@ -19,10 +19,12 @@ Mujeres y hombres mayores de 18 años<br>
 Con promociones de temporadas y moda y si la marca lo solicita se adapta el pedido al publico.<br>
 
 <h2>Logo:</h2>
+
 ![Getting Started](./Imagenes/altamodalogo.png)
 
 <h2>WIREFRAME:</h2>
 <h4>INDEX</h4>
+
 ![Getting Started](./Imagenes/INDEX.jpg)
 
 
