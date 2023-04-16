@@ -27,6 +27,15 @@ Con promociones de temporadas y moda y si la marca lo solicita se adapta el pedi
 
 ![Getting Started](./Imagenes/INDEX.jpg)
 
+<h4>Mujer</h4>
+
+![Getting Started](./Imagenes/Mujer.jpg)
+
+<h4>Contáctenos</h4>
+
+![Getting Started](./Imagenes/Contactenos.jpg)
+
+
 
 <h2>Referentes de Mercado</h2><br>
 https://www.shein.com/ : Posicionamiento líder en mercado global, con enfoque acentuado en las ofertas y cupones con target preferencial femenino.<br>
