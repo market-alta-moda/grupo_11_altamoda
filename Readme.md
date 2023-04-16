@@ -20,7 +20,7 @@ Con promociones de temporadas y moda y si la marca lo solicita se adapta el pedi
 
 <h2>Logo:</h2>
 
-![Getting Started](./Imagenes/altamodalogo.png)
+![Getting Started](./Imagenes/logo%20altamoda.jpg)
 
 <h2>WIREFRAME:</h2>
 <h4>INDEX</h4>
