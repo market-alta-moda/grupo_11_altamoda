@@ -20,13 +20,20 @@ Con promociones de temporadas y moda y si la marca lo solicita se adapta el pedi
 
 <h2>Logo:</h2>
 
-![Getting Started](./Imagenes/altamodalogo.png)
+![Getting Started](./Imagenes/altamodalogo.jpg)
 
 <h2>WIREFRAME:</h2>
 <h4>INDEX</h4>
 
 ![Getting Started](./Imagenes/INDEX.jpg)
 
+<h4>Mujer</h4>
+
+![Getting Started](./Imagenes/Mujer.jpg)
+
+<h4>Contáctenos</h4>
+
+![Getting Started](./Imagenes/Contactenos.jpg)
 
 <h2>Referentes de Mercado</h2><br>
 https://www.shein.com/ : Posicionamiento líder en mercado global, con enfoque acentuado en las ofertas y cupones con target preferencial femenino.<br>
