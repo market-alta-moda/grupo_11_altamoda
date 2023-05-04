@@ -5,29 +5,33 @@
     background-color: #D7A49D;
 }
 
-
 .bi-facebook {
-    color:#3b5998;
+    color: #3b5998;
     font-size: xx-large;
 
 }
+
 .bi-twitter {
-    color:#55acee;
+    color: #55acee;
     font-size: xx-large;
 }
+
 .bi-google {
-    color:#dd4b39;
+    color: #dd4b39;
     font-size: xx-large;
 }
+
 .bi-instagram {
-    color:#ac2bac;
+    color: #ac2bac;
     font-size: xx-large;
 }
+
 .bi-linkedin {
-    color:#0082ca;
+    color: #0082ca;
     font-size: xx-large;
 }
+
 .bi-github {
-    color:#333333;
+    color: #333333;
     font-size: xx-large;
 }
