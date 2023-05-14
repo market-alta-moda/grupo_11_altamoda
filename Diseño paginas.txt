@@ -1,0 +1,40 @@
+
+#D7A49D color fondo promos rotulos
+
+font bebas neue cyrillic google font
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+
+favicon
+AM 
+
+main/index
+carousell + fotos 
+nav con logo con cambio de tamaño al desplazarse verticalmente
+
+contactenos:
+Mail Si todavía no realizaste ningún pedido ->  info@distritomoda.com.ar
+Mail Si realizaste tu pedido, enviá un mail con el Nº de pedido a
+Envianos un mensaje
+nombre - asunto  direccion correo electronico
+mensaje
+captcha
+enviar msj
+
+quienes somos:
+fotos personales - funcion puesto 
+breve descrip personales
+video/gif de algo de moda 
+
+hombre:
+carrousel de promo cabecera
+grid con fotos 
+funcionalidad cambio de color a ropa en fotos
+scroll vertical
+descripcion por foto
+zoom fotos 
+
+foooter generico 
+
+

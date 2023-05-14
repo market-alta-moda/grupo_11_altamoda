@@ -1,0 +1,265 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+.contenedor-padre {
+    display: flex;
+    background-color: #D7A49D;
+    background-image: linear-gradient(#D7A49D, white);
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-top: 0.9rem;
+    padding-bottom: 2rem;
+
+
+}
+
+.form-control {
+    margin: 1rem
+}
+
+.caja2 {
+    display: flex;
+}
+
+.cajax {
+    display: flex;
+    margin-top: 10rem;
+    background-color: aqua;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    height: 3rem;
+
+}
+
+.divider {
+    padding-top: 0.1rem;
+    width: 100%;
+    padding-bottom: 0.3rem;
+
+
+}
+
+.contenedor-padre-2 {
+    display: flex;
+    background-image: linear-gradient(0deg,
+            hsl(7deg 42% 73%) 0%,
+            hsl(7deg 43% 76%) 11%,
+            hsl(7deg 44% 79%) 22%,
+            hsl(7deg 44% 82%) 33%,
+            hsl(8deg 45% 85%) 44%,
+            hsl(8deg 46% 88%) 56%,
+            hsl(8deg 47% 91%) 67%,
+            hsl(8deg 48% 94%) 78%,
+            hsl(8deg 48% 97%) 89%,
+            hsl(0deg 0% 100%) 100%);
+    height: 11rem;
+    padding-left: 10rem;
+    padding-right: 10rem;
+    padding-top: 0.1rem;
+    padding-bottom: 1rem;
+
+
+}
+
+.contenedor2 {
+
+    background-image: linear-gradient(0deg, rgba(247, 247, 247, 1) 0%, rgba(215, 164, 157, 1) 35%);
+    height: 15rem;
+    padding-left: 10rem;
+    padding-right: 10rem;
+    padding-top: 0.1rem;
+    padding-bottom: 1rem;
+
+
+}
+
+.carousel-item.active {
+    display: flex !important;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+
+    top: 15.4rem !important;
+    bottom: 20.8rem !important;
+    width: 3rem !important;
+    opacity: 8.5 !important;
+}
+
+*#carouselExampleIndicators {
+    display: flex !important;
+    height: 21rem !important;
+    width: 100% !important;
+
+}
+
+.d-block {
+    margin-top: 1rem;
+    margin-right: 7rem;
+    width: 14rem;
+    height: 6rem;
+    border-style: inset;
+    border-radius: 0.1rem;
+    border-width: 0.1rem;
+    border-color: antiquewhite;
+}
+
+
+
+#carouselExampleIndicators {
+
+    padding-bottom: 12rem;
+}
+
+.carousel-indicators {
+    bottom: 10.5rem !important;
+}
+
+.carousel-control-next {
+    margin-right: 7rem;
+}
+
+a {
+
+    background-color: rgb(89, 208, 168);
+    padding: 10px;
+    text-decoration: none;
+    margin-left: 0.1rem;
+}
+
+div.contenedor-hijo {
+    margin: 50px;
+}
+
+.contenedor-hijo-carro,
+.contenedor-hijo-star {
+    width: 35px;
+    height: 35px;
+    background-color: transparent;
+    display: flex;
+    border-radius: 0%;
+    color: #fff;
+    align-items: left;
+    margin-top: 1rem;
+    margin-left: 0.4rem;
+
+}
+
+
+.container-middle {
+    background-image: linear-gradient(0deg, rgba(247, 247, 247, 1) 0%, rgba(215, 164, 157, 1) 35%);
+    width: 100%;
+    height: 22rem;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    align-items: center;
+}
+
+#carouselExampleIndicators-middle {
+    display: flex !important;
+    height: 21.5rem !important;
+    width: 100% !important;
+
+}
+
+.box-promo-medio-1,
+.box-promo-medio-2 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    z-index: 2;
+    opacity: 95%;
+    height: 10rem;
+    width: 10rem;
+    top: 33%;
+    position: absolute;
+    display: flex;
+    margin-left: 10rem;
+}
+
+.box-promo-medio-1 {
+    left: 46.5%;
+}
+
+.box-promo-medio-2 {
+    left: 14%;
+}
+
+.carousel-item.active {
+    display: flex !important;
+}
+
+.carousel-item {
+    padding: 1rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.imagen-centro {
+    margin-right: 0.5rem;
+    width: 24rem;
+    height: 20rem;
+    border-style: inset;
+    border-radius: 0.5rem;
+    border-width: 0.5rem;
+    border-color: antiquewhite;
+}
+
+.carousel-control-prev-middle,
+.carousel-control-next-middle {
+    display: flex !important;
+    position: relative !important;
+    top: -12rem !important;
+    bottom: 0rem !important;
+
+    width: 4rem !important;
+}
+
+.carousel-control-next-middle {
+    margin-left: 73rem !important;
+    top: -15.4rem !important;
+
+}
+
+
+.Seguinos {
+    color: #0d0000;
+    font-size: xx-large;
+    font-style: italic;
+    background-color: #D7A49D;
+}
+
+.bi-facebook {
+    color: #3b5998;
+    font-size: xx-large;
+
+}
+
+.bi-twitter {
+    color: #55acee;
+    font-size: xx-large;
+}
+
+.bi-google {
+    color: #dd4b39;
+    font-size: xx-large;
+}
+
+.bi-instagram {
+    color: #ac2bac;
+    font-size: xx-large;
+}
+
+.bi-linkedin {
+    color: #0082ca;
+    font-size: xx-large;
+}
+
+.bi-github {
+    color: #333333;
+    font-size: xx-large;
+}
