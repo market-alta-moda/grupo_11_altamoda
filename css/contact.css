@@ -1,18 +1,59 @@
-/* html,
-body {
-  height: 100%;
+.Seguinos {
+  color: #0d0000;
+  font-size: xx-large;
+  font-style: italic;
+  background-color: #D7A49D;
 }
 
-body {
-  display: flex;
-  align-items: center;
-  padding-top: 40px;
-  padding-bottom: 40px;
-  background-color: #d43d3d;
-} */
+.bi-facebook {
+  color: #3b5998;
+  font-size: xx-large;
 
-/* .form-group {
-  max-width: 330px;
-  padding: 15px;
-} */
+}
 
+.bi-twitter {
+  color: #55acee;
+  font-size: xx-large;
+}
+
+.bi-google {
+  color: #dd4b39;
+  font-size: xx-large;
+}
+
+.bi-instagram {
+  color: #ac2bac;
+  font-size: xx-large;
+}
+
+.bi-linkedin {
+  color: #0082ca;
+  font-size: xx-large;
+}
+
+.bi-github {
+  color: #333333;
+  font-size: xx-large;
+}
+
+.btn {
+  background-color: #ac2bac;
+
+}
+
+#alta {
+  background-color: #D7A49D;
+
+
+}
+
+
+#nombre {
+  background-color: rgb(221, 250, 241);
+}
+#email {
+  background-color: rgb(221, 250, 241);
+}
+#mensaje {
+  background-color: rgb(221, 250, 241);
+}
