@@ -1,286 +1,283 @@
 html {
-    height: 100%;
-    width: 100%;
+  height: 100%;
+  width: 100%;
 }
 
 .contenedor-padre {
-    display: flex;
-    background-color: #D7A49D;
-    background-image: linear-gradient(#D7A49D, white);
-    padding-left: 3%;
-    padding-right: 3%;
-    padding-top: 0.9rem;
-    padding-bottom: 2rem;
-
-
+  display: flex;
+  background-color: #d7a49d;
+  background-image: linear-gradient(#d7a49d, white);
+  padding-left: 3%;
+  padding-right: 3%;
+  padding-top: 0.9rem;
+  padding-bottom: 2rem;
 }
 
 .form-control {
-    margin: 1rem
+  margin: 1rem;
 }
 
 .caja2 {
-    display: flex;
+  display: flex;
 }
 
 .cajax {
-    display: flex;
-    margin-top: 10rem;
-    background-color: aqua;
-    margin-left: 3rem;
-    margin-right: 3rem;
-    height: 3rem;
-
+  display: flex;
+  margin-top: 10rem;
+  background-color: aqua;
+  margin-left: 3rem;
+  margin-right: 3rem;
+  height: 3rem;
 }
-
 
 .divider-top,
 .divider-bottom {
-    width: 100%;
-    padding-bottom: 0.3rem;
+  width: 100%;
+  padding-bottom: 0.3rem;
 }
 
 .divider-top {
-    padding-top: 0.1rem;
+  padding-top: 0.1rem;
 }
 
 .divider-bottom {
-    margin-top: 4rem;
-
+  margin-top: 4rem;
 }
 
 .contenedor-padre-2 {
-    display: flex;
-    background-image: linear-gradient(0deg,
-            hsl(7deg 42% 73%) 0%,
-            hsl(7deg 43% 76%) 11%,
-            hsl(7deg 44% 79%) 22%,
-            hsl(7deg 44% 82%) 33%,
-            hsl(8deg 45% 85%) 44%,
-            hsl(8deg 46% 88%) 56%,
-            hsl(8deg 47% 91%) 67%,
-            hsl(8deg 48% 94%) 78%,
-            hsl(8deg 48% 97%) 89%,
-            hsl(0deg 0% 100%) 100%);
-    height: 11rem;
-    padding-left: 10%;
-    padding-right: 10%;
-    padding-top: 0.1rem;
-    padding-bottom: 1rem;
-
-
+  display: flex;
+  background-image: linear-gradient(
+    0deg,
+    hsl(7deg 42% 73%) 0%,
+    hsl(7deg 43% 76%) 11%,
+    hsl(7deg 44% 79%) 22%,
+    hsl(7deg 44% 82%) 33%,
+    hsl(8deg 45% 85%) 44%,
+    hsl(8deg 46% 88%) 56%,
+    hsl(8deg 47% 91%) 67%,
+    hsl(8deg 48% 94%) 78%,
+    hsl(8deg 48% 97%) 89%,
+    hsl(0deg 0% 100%) 100%
+  );
+  height: 11rem;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 0.1rem;
+  padding-bottom: 1rem;
 }
 
 .contenedor2 {
-
-    background-image: linear-gradient(0deg, rgba(247, 247, 247, 1) 0%, rgba(215, 164, 157, 1) 35%);
-    height: 15rem;
-    padding-left: 10rem;
-    padding-right: 10rem;
-    padding-top: 0.1rem;
-    padding-bottom: 1rem;
-
-
+  background-image: linear-gradient(
+    0deg,
+    rgba(247, 247, 247, 1) 0%,
+    rgba(215, 164, 157, 1) 35%
+  );
+  height: 15rem;
+  padding-left: 10rem;
+  padding-right: 10rem;
+  padding-top: 0.1rem;
+  padding-bottom: 1rem;
 }
 
 .carousel-item.active {
-    display: flex !important;
+  display: flex !important;
 }
 
 .carousel-control-prev,
 .carousel-control-next {
-
-    top: 15.4rem !important;
-    bottom: 20.8rem !important;
-    width: 3rem !important;
-    opacity: 8.5 !important;
+  top: 15.4rem !important;
+  bottom: 20.8rem !important;
+  width: 3rem !important;
+  opacity: 8.5 !important;
 }
 
 #carouselExampleIndicators {
-    display: flex !important;
-    height: 21rem !important;
-    width: 100% !important;
-
+  display: flex !important;
+  height: 21rem !important;
+  width: 100% !important;
 }
 
 .d-block {
-    margin-top: 1rem;
-    margin-right: 7rem;
-    width: 14rem;
-    height: 6rem;
-    border-style: inset;
-    border-radius: 0.1rem;
-    border-width: 0.1rem;
-    border-color: antiquewhite;
+  margin-top: 1rem;
+  margin-right: 7rem;
+  width: 14rem;
+  height: 6rem;
+  border-style: inset;
+  border-radius: 0.1rem;
+  border-width: 0.1rem;
+  border-color: antiquewhite;
 }
 
-
-
 #carouselExampleIndicators {
-
-    padding-bottom: 12rem;
+  padding-bottom: 12rem;
 }
 
 .carousel-indicators {
-    bottom: 10.5rem !important;
+  bottom: 10.5rem !important;
 }
 
 .carousel-control-next {
-    margin-right: 7rem;
+  margin-right: 7rem;
 }
 
 a {
-
-    background-color: rgb(89, 208, 168);
-    padding: 10px;
-    text-decoration: none;
-    margin-left: 0.1rem;
+  background-color: rgb(89, 208, 168);
+  padding: 10px;
+  text-decoration: none;
+  margin-left: 0.1rem;
 }
 
 div.contenedor-hijo {
-    margin: 50px;
+  margin: 50px;
 }
 
 .contenedor-hijo-carro,
 .contenedor-hijo-star {
-    width: 35px;
-    height: 35px;
-    background-color: transparent;
-    display: flex;
-    border-radius: 0%;
-    color: #fff;
-    align-items: left;
-    margin-top: 1rem;
-    margin-left: 0.4rem;
-
+  width: 35px;
+  height: 35px;
+  background-color: transparent;
+  display: flex;
+  border-radius: 0%;
+  color: #fff;
+  align-items: left;
+  margin-top: 1rem;
+  margin-left: 0.4rem;
 }
 
-
 .container-middle {
-    background-image: linear-gradient(0deg, rgba(247, 247, 247, 1) -13%, rgba(215, 164, 157, 1) 28%);
-    width: 100%;
-    height: 21rem;
-    flex-direction: row;
-    flex-wrap: wrap;
-    padding-left: 1rem;
-    padding-right: 1rem;
-    align-items: center;
+  background-image: linear-gradient(
+    0deg,
+    rgba(247, 247, 247, 1) -13%,
+    rgba(215, 164, 157, 1) 28%
+  );
+  width: 100%;
+  height: 21rem;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  align-items: center;
 }
 
 #carouselExampleIndicators-middle {
-    display: flex !important;
-    height: 21.5rem !important;
-    width: 100% !important;
-
+  display: flex !important;
+  height: 21.5rem !important;
+  width: 100% !important;
 }
 
 .box-promo-medio-1,
 .box-promo-medio-2 {
-    padding-left: 1rem;
-    padding-right: 1rem;
-    z-index: 2;
-    opacity: 95%;
-    height: 10rem;
-    width: 10rem;
-    top: 33%;
-    position: absolute;
-    display: flex;
-    margin-left: 10rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  z-index: 2;
+  opacity: 95%;
+  height: 10rem;
+  width: 10rem;
+  top: 33%;
+  position: absolute;
+  display: flex;
+  margin-left: 10rem;
 }
 
 .box-promo-medio-1 {
-    left: 46.5%;
+  left: 46.5%;
 }
 
 .box-promo-medio-2 {
-    left: 14%;
+  left: 14%;
 }
 
 .carousel-item.active {
-    display: flex !important;
+  display: flex !important;
 }
 
 .carousel-item {
-    padding: 1rem;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
+  padding: 1rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
 }
 
 .imagen-centro {
-    margin-right: 0.5rem;
-    width: 24rem;
-    height: 20rem;
-    border-style: inset;
-    border-radius: 0.5rem;
-    border-width: 0.5rem;
-    border-color: antiquewhite;
+  margin-right: 0.5rem;
+  width: 24rem;
+  height: 20rem;
+  border-style: inset;
+  border-radius: 0.5rem;
+  border-width: 0.5rem;
+  border-color: antiquewhite;
 }
 
 .carousel-control-prev-middle,
 .carousel-control-next-middle {
-    display: flex !important;
-    position: relative !important;
-    top: -12rem !important;
-    bottom: 0rem !important;
+  display: flex !important;
+  position: relative !important;
+  top: -12rem !important;
+  bottom: 0rem !important;
 
-    width: 4rem !important;
+  width: 4rem !important;
 }
 
 .carousel-control-next-middle {
-    margin-left: 73rem !important;
-    top: -15.4rem !important;
-
+  margin-left: 73rem !important;
+  top: -15.4rem !important;
 }
 
 .container-bottom {
-    background-image: linear-gradient(0deg,
-            hsl(7deg 42% 73%) 4%,
-            hsl(7deg 43% 76%) 11%,
-            hsl(7deg 44% 79%) 22%,
-            hsl(7deg 44% 82%) 33%,
-            hsl(8deg 45% 85%) 44%,
-            hsl(8deg 46% 88%) 59%,
-            hsl(8deg 47% 91%) 100%,
-            hsl(8deg 48% 94%) 53%,
-            hsl(8deg 48% 97%) 21%,
-            hsl(0deg 0% 100%) 138%);
-    display: flex;
-    width: 100%;
-    height: 13rem;
-    padding-left: 8rem;
-    padding-right: 8rem;
-
-
-
+  background-image: linear-gradient(
+    0deg,
+    hsl(7deg 42% 73%) 4%,
+    hsl(7deg 43% 76%) 11%,
+    hsl(7deg 44% 79%) 22%,
+    hsl(7deg 44% 82%) 33%,
+    hsl(8deg 45% 85%) 44%,
+    hsl(8deg 46% 88%) 59%,
+    hsl(8deg 47% 91%) 100%,
+    hsl(8deg 48% 94%) 53%,
+    hsl(8deg 48% 97%) 21%,
+    hsl(0deg 0% 100%) 138%
+  );
+  display: flex;
+  width: 100%;
+  height: 13rem;
+  padding-left: 8rem;
+  padding-right: 8rem;
 }
 
 .frame-icon-male {
-
-    display: flex;
-    height: 73%;
-    width: 73%;
-    padding: 1rem;
-    z-index: 2;
-
-
+  display: flex;
+  height: 73%;
+  width: 73%;
+  padding: 1rem;
+  z-index: 2;
 }
 
-.container-bottom .siluette {
-    height: 4rem;
-    width: 4rem;
-    left: -5rem;
-    top: -1rem;
-
-
-
+.container-bottom .siluette-hombre {
+  height: 4rem;
+  width: 4rem;
+  left: -5rem;
+  top: -1rem;
 }
 
 .hombres-html {
+  z-index: 2;
+  position: relative;
+  margin-left: -18rem;
+  margin-bottom: 4rem;
+  margin-top: 2rem;
+}
+
+.container-bottom .siluette-mujer {
+  height: 4.4rem;
+  width: 4.5rem;
+  left: -3rem;
+  top: -1rem;
+}
+
+.mujer-html {
     z-index: 2;
     position: relative;
-    margin-left: -15rem;
+    margin-left: -18rem;
     margin-bottom: 4rem;
     margin-top: 2rem;
-
-}
+  }
