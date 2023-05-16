@@ -267,13 +267,11 @@ div.contenedor-hijo {
 }
 
 .container-bottom .siluette {
-
-    position: relative;
     height: 4rem;
     width: 4rem;
-    left: -120%;
-    top: -35%;
-    display: block;
+    left: -5rem;
+    top: -1rem;
+
 
 
 }
@@ -281,8 +279,8 @@ div.contenedor-hijo {
 .hombres-html {
     z-index: 2;
     position: relative;
-    margin-left: -8.7rem;
-    margin-bottom: 6rem;
-    margin-top: 3rem;
+    margin-left: -15rem;
+    margin-bottom: 4rem;
+    margin-top: 2rem;
 
 }
