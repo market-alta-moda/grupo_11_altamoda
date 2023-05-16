@@ -7,8 +7,8 @@ html {
     display: flex;
     background-color: #D7A49D;
     background-image: linear-gradient(#D7A49D, white);
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
+    padding-left: 3%;
+    padding-right: 3%;
     padding-top: 0.9rem;
     padding-bottom: 2rem;
 
@@ -33,11 +33,19 @@ html {
 
 }
 
-.divider {
-    padding-top: 0.1rem;
+
+.divider-top,
+.divider-bottom {
     width: 100%;
     padding-bottom: 0.3rem;
+}
 
+.divider-top {
+    padding-top: 0.1rem;
+}
+
+.divider-bottom {
+    margin-top: 4rem;
 
 }
 
@@ -55,8 +63,8 @@ html {
             hsl(8deg 48% 97%) 89%,
             hsl(0deg 0% 100%) 100%);
     height: 11rem;
-    padding-left: 10rem;
-    padding-right: 10rem;
+    padding-left: 10%;
+    padding-right: 10%;
     padding-top: 0.1rem;
     padding-bottom: 1rem;
 
@@ -88,7 +96,7 @@ html {
     opacity: 8.5 !important;
 }
 
-*#carouselExampleIndicators {
+#carouselExampleIndicators {
     display: flex !important;
     height: 21rem !important;
     width: 100% !important;
@@ -149,9 +157,9 @@ div.contenedor-hijo {
 
 
 .container-middle {
-    background-image: linear-gradient(0deg, rgba(247, 247, 247, 1) 0%, rgba(215, 164, 157, 1) 35%);
+    background-image: linear-gradient(0deg, rgba(247, 247, 247, 1) -13%, rgba(215, 164, 157, 1) 28%);
     width: 100%;
-    height: 22rem;
+    height: 21rem;
     flex-direction: row;
     flex-wrap: wrap;
     padding-left: 1rem;
@@ -225,41 +233,56 @@ div.contenedor-hijo {
 
 }
 
+.container-bottom {
+    background-image: linear-gradient(0deg,
+            hsl(7deg 42% 73%) 4%,
+            hsl(7deg 43% 76%) 11%,
+            hsl(7deg 44% 79%) 22%,
+            hsl(7deg 44% 82%) 33%,
+            hsl(8deg 45% 85%) 44%,
+            hsl(8deg 46% 88%) 59%,
+            hsl(8deg 47% 91%) 100%,
+            hsl(8deg 48% 94%) 53%,
+            hsl(8deg 48% 97%) 21%,
+            hsl(0deg 0% 100%) 138%);
+    display: flex;
+    width: 100%;
+    height: 13rem;
+    padding-left: 8rem;
+    padding-right: 8rem;
 
-.Seguinos {
-    color: #0d0000;
-    font-size: xx-large;
-    font-style: italic;
-    background-color: #D7A49D;
+
+
 }
 
-.bi-facebook {
-    color: #3b5998;
-    font-size: xx-large;
+.frame-icon-male {
+
+    display: flex;
+    height: 73%;
+    width: 73%;
+    padding: 1rem;
+    z-index: 2;
+
 
 }
 
-.bi-twitter {
-    color: #55acee;
-    font-size: xx-large;
+.container-bottom .siluette {
+
+    position: relative;
+    height: 4rem;
+    width: 4rem;
+    left: -120%;
+    top: -35%;
+    display: block;
+
+
 }
 
-.bi-google {
-    color: #dd4b39;
-    font-size: xx-large;
-}
+.hombres-html {
+    z-index: 2;
+    position: relative;
+    margin-left: -8.7rem;
+    margin-bottom: 6rem;
+    margin-top: 3rem;
 
-.bi-instagram {
-    color: #ac2bac;
-    font-size: xx-large;
-}
-
-.bi-linkedin {
-    color: #0082ca;
-    font-size: xx-large;
-}
-
-.bi-github {
-    color: #333333;
-    font-size: xx-large;
 }
