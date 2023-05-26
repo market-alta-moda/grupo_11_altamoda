@@ -165,6 +165,7 @@ div.contenedor-hijo {
   width: 100% !important;
 }
 
+
 .box-promo-medio-1,
 .box-promo-medio-2 {
   padding-left: 1rem;
@@ -177,6 +178,33 @@ div.contenedor-hijo {
   position: absolute;
   display: flex;
   margin-left: 13rem;
+  animation: pulsate 1.5s infinite alternate;  
+  border: 0.3rem solid #fff;
+  border-radius: 0.7rem;
+  padding: 0.4px;
+  box-shadow: 0 0 .1rem #fff,
+            0 0 .2rem #fff,
+            0 0 2rem #bc13fe,
+            0 0 0.8rem #bc13fe,
+            0 0 2.8rem #bc13fe,
+            inset 0 0 1.3rem #bc13fe; 
+}
+
+@keyframes pulsate {
+    
+  100% {
+
+      text-shadow:
+      0 0 4px #fff,
+      0 0 11px #fff,
+      0 0 19px #fff,
+      0 0 40px #bc13fe,
+      0 0 80px #bc13fe,
+      0 0 90px #bc13fe,
+      0 0 100px #bc13fe,
+      0 0 150px #bc13fe;
+  
+  }
 }
 
 .box-promo-medio-1 {
@@ -220,7 +248,7 @@ div.contenedor-hijo {
 }
 
 .carousel-control-next-middle {
-  margin-left: 89rem !important;
+  margin-left: 74rem !important;
   top: -15.4rem !important;
 }
 
@@ -242,16 +270,18 @@ div.contenedor-hijo {
   width: 100%;
   height: 12rem;
   padding-left: 0rem;
-  padding-right: 8rem;
+  padding-right: 0rem;
   align-items: center;
 }
 
-.frame-icon-male {
+.frame-icon-deco{
   display: flex;
   height: 85%;
   width: 75%;
-  margin-left: 6rem;
+  margin-left: 0rem;
 }
+
+
 
 .container-bottom .siluette-hombre {
   height: 4rem;
@@ -312,6 +342,6 @@ div.contenedor-hijo {
   margin-inline: -1rem;
 }
 
-.text-center{
-  padding-top: 5rem;
-}
+
+
+
