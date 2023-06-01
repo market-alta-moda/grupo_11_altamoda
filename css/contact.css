@@ -57,3 +57,8 @@
 #mensaje {
   background-color: rgb(221, 250, 241);
 }
+
+.contact-img{
+  padding-right: 10rem;
+  height: 10rem;
+}

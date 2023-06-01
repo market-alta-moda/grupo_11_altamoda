@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../grupo_11_altamoda/prueba.css">
+    <title>Document</title>
+</head>
+<body>
+    
+    <form name="formulario" action="">
+        <label for="Nombre" >Nombre</label>
+        <input type="text" name="nombre"  id="nombre">
+      
+        <label for="email">Email</label>
+        <input type="text" email="email"  id="email">
+          <!--
+        <label for="Numero de teléfono">Numero de teléfono</label>
+        <input type="tel" name="teléfono" id="phone" pattern="[0-9]{8}" placeholder="Ingrese su teléfono después del 011">
+        <label for="comentario">Ingrese su comentario</label>
+        <textarea name="comentario" id="comentario" cols="30" rows="6"></textarea>-->
+        <button id="submit" type="submit" value="Enviar" disabled onclick="validarnombre(formulario.nombre,formulario.email,4,15)">Enviar</button>
+    </form>
+
+<script src="./pruebajs.js"></script>
+</body>
+</html>
