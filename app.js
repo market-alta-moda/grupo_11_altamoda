@@ -7,8 +7,8 @@ let inicio = "./index.html";
 let button = document.querySelector("#envio");
 button.disabled = true;
 
-nombre.addEventListener("change", ValidateEmail);
-email.addEventListener("change", ValidateEmail);
+nombre.addEventListener("change", stateHandle);
+email.addEventListener("change", stateHandle);
 
 mensaje.addEventListener("change", stateHandle);
 
