@@ -1,8 +1,12 @@
-.Seguinos {
+.Seguinos, p {
   color: #0d0000;
   font-size: xx-large;
   font-style: italic;
   background-color: #D7A49D;
+}
+
+p {
+  font-size:x-large;
 }
 
 .bi-facebook {
@@ -61,4 +65,11 @@
 .contact-img{
   padding-right: 10rem;
   height: 10rem;
+}
+
+.fashionvid{
+  border-style: inset;
+  border-radius: 0.5rem;
+  border-width: 0.5rem;
+  border-color: antiquewhite;
 }

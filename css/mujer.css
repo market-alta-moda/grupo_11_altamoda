@@ -19,3 +19,12 @@ body {
 #busqueda {
     background-color: rgb(221, 250, 241);
 }
+
+.w-100, .img-fluid {
+    border-style: inset;
+    border-radius: 0.5rem;
+    border-width: 0.5rem;
+    border-color: antiquewhite;
+
+
+}
