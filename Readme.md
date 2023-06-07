@@ -1,14 +1,14 @@
 #Grupo 11 - Web Alta Moda
 
 <h3>Integrantes:</h3><br>
-°Yamila Nahir Saavedra<br>
-°Cristian Gabriel Mateo<br>
 °Lucas Rusatti<br>
 °Mariano Renna<br><br>
 
 <h2>Enlace a tablero de trabajo</h2>
 https://app.diagrams.net/#G1e1gX8Rm9IlwTd0FPbY3dG6suT1fI-YRF
 
+<h2>Enlace al Sitio funcional</h2>
+https://effervescent-unicorn-4ee3dd.netlify.app
 
 <h2>Tematica del sitio web</h2> <br>
 ¿Qué productos o servicios brindará nuestro sitio?<br>
