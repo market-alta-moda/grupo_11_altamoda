@@ -73,3 +73,7 @@ p {
   border-width: 0.5rem;
   border-color: antiquewhite;
 }
+
+label{
+  font-weight: bold;
+}
