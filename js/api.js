@@ -1,8 +1,3 @@
-
-let precios1 = document.getElementById("precios1");
-let precios2 = document.getElementById("precios2");
-let precios3 = document.getElementById("precios3");
-
 let valoritem1 =document.getElementById("precio1");
 let valoritem2 =document.getElementById("precio2");
 let valoritem3 =document.getElementById("precio3");
